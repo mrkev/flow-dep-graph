@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flow-dep-graph/static/css/main.518968e6.chunk.css",
+    "main.js": "/flow-dep-graph/static/js/main.5a7f7f85.chunk.js",
+    "main.js.map": "/flow-dep-graph/static/js/main.5a7f7f85.chunk.js.map",
+    "runtime-main.js": "/flow-dep-graph/static/js/runtime-main.ac7f844b.js",
+    "runtime-main.js.map": "/flow-dep-graph/static/js/runtime-main.ac7f844b.js.map",
+    "static/js/2.30d70c6b.chunk.js": "/flow-dep-graph/static/js/2.30d70c6b.chunk.js",
+    "static/js/2.30d70c6b.chunk.js.map": "/flow-dep-graph/static/js/2.30d70c6b.chunk.js.map",
+    "static/js/3.ba7c15fc.chunk.js": "/flow-dep-graph/static/js/3.ba7c15fc.chunk.js",
+    "static/js/3.ba7c15fc.chunk.js.map": "/flow-dep-graph/static/js/3.ba7c15fc.chunk.js.map",
+    "index.html": "/flow-dep-graph/index.html",
+    "static/css/main.518968e6.chunk.css.map": "/flow-dep-graph/static/css/main.518968e6.chunk.css.map",
+    "static/js/2.30d70c6b.chunk.js.LICENSE.txt": "/flow-dep-graph/static/js/2.30d70c6b.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/flow-dep-graph/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac7f844b.js",
+    "static/js/2.30d70c6b.chunk.js",
+    "static/css/main.518968e6.chunk.css",
+    "static/js/main.5a7f7f85.chunk.js"
+  ]
+}
